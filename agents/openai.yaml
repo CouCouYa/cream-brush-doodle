@@ -1,0 +1,4 @@
+interface:
+  display_name: "奶油粗笔涂鸦"
+  short_description: "上传人物、动物或兽人角色图，保留辨识特征并生成奶油白底粗笔涂鸦头像"
+  default_prompt: "使用 $cream-brush-doodle，把我上传的角色图片画成奶油白底的粗笔手绘涂鸦，保留原角色配色、纹样和标志性配件。"
